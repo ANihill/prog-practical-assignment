@@ -17,7 +17,7 @@ The Jupyter notebook can be downloaded from [here](https://github.com/ANihill/pr
 The notebook is divided into four sections corresponding to the assignment instructions. 
 
 ## Section 1
-This section explores simple random data. The majority of functions in this section of the numpy.random tutorial return random samples in the uniform distribution. However, one function, numpy.random.randn, returns samples in the standard normal distribion. As such, there are examples here demonstrating both distributions and the differences between them. 
+This section explores simple random data. The majority of functions in this section of the numpy.random tutorial return random samples in the uniform distribution. However, one function, numpy.random.randn, returns samples in the standard normal distribution. As such, there are examples here demonstrating both distributions and the differences between them. 
 
 ## Section 2 
 This section explores the permutation functions of numpy.random. To demonstrate the use of these functions, a practical example of a music player's shuffle feature was described.
@@ -26,11 +26,11 @@ This section explores the permutation functions of numpy.random. To demonstrate 
 This section explores five specific distributions of the numpy.random package.
 
 These distributions are:
-- The Geometric Distribtion
+- The Geometric Distribution
 - The Poisson Distribution
 - The Triangular Distribution
 - The Standard_t Distribution
-- The Hypergeometric Function
+- The Hypergeometric Distribution
 
 Each distribution is accompanied by a ractical example of how it may be applied.
 
