@@ -42,3 +42,4 @@ This section explores the use of seeds in generating pseudorandom numbers
 - https://en.wikipedia.org/wiki/Bernoulli_trial
 - https://en.wikipedia.org/wiki/Student%27s_t-distribution
 - https://en.wikipedia.org/wiki/Hypergeometric_distribution
+- https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html
