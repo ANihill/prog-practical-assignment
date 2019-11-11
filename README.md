@@ -9,6 +9,7 @@ This Jupyter notebook explores the numpy.random package based on the instruction
 - [Matplotlib](https://matplotlib.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Seaborn](https://seaborn.pydata.org/)
+- [Jupyter](https://jupyter.org/install.html)
 
 # Download
 The Jupyter notebook can be downloaded from [here](https://github.com/ANihill/prog-practical-assignment.git). 
